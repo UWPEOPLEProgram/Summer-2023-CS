@@ -2,7 +2,7 @@
 ---
 
 These are some of the links we'll visit during class:
-
+Create account for GitHub, p5js(if you want to save projects), and Unity
 ## Day 1: 
 ---
 https://github.com/UWPEOPLEProgram/Summer-2023-CS
