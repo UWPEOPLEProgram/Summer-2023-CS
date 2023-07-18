@@ -34,6 +34,19 @@ https://public.enroll.wisc.edu/search
 
 ## Day 4: 
 ---
+Complete Tutorial (and Flappy Bird): https://youtu.be/XtQMytORBmM
+
+Dialogue: https://youtu.be/8oTYabhj248
+or: https://youtu.be/_nRzoTzeyxU
+
+Flappy Bird: https://youtu.be/saDiILcEyUM
+
+Pong: https://youtu.be/YHSanceczXY
+
+Adding Sound: https://youtu.be/6OT43pvUyfY
+
+
+
 ---
 ## Day 5: 
 ---
